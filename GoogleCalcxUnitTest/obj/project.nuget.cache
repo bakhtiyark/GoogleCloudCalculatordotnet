@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IbjZbCy3pUCs/8MJr/RV6/ic3NaXPjWAGgIipsyQB4ybQmEKrm3v+6CQdetOgNo7DcODH2H7NMcorRYSGc0/cA==",
+  "dgSpecHash": "THNlk/u5dN4qP6wUkjtCP+hWjyQ/Aefnhfozt36bdv6dHfUSXNagodqFbdXmewa5YuFyqJKhMbSjmZOcqC5DBQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\bakht\\RiderProjects\\GoogleCalcxUnitTest\\GoogleCalcxUnitTest\\GoogleCalcxUnitTest.csproj",
   "expectedPackageFiles": [
@@ -31,6 +31,8 @@
     "C:\\Users\\bakht\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\bakht\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\bakht\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\bakht\\.nuget\\packages\\selenium.webdriver\\4.17.0\\selenium.webdriver.4.17.0.nupkg.sha512",
+    "C:\\Users\\bakht\\.nuget\\packages\\seleniumextras.waithelpers\\1.0.2\\seleniumextras.waithelpers.1.0.2.nupkg.sha512",
     "C:\\Users\\bakht\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
     "C:\\Users\\bakht\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\bakht\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
